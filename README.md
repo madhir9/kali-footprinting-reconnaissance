@@ -57,8 +57,8 @@ I used WhatWeb to identify technologies exposed by the website.
 ```bash
 whatweb networkwalks.com
 ```
-![WhatWeb Screenshot](images/<img width="1365" height="745" alt="whatweb" src="https://github.com/user-attachments/assets/6c99cd6c-4b09-4e52-8c9f-ea7d966d068a" />
-)
+[WhatWeb Screenshot]images/<img width="1365" height="745" alt="whatweb" src="https://github.com/user-attachments/assets/6c99cd6c-4b09-4e52-8c9f-ea7d966d068a" />
+
 
 ###  📡 NSLookup
 
@@ -72,8 +72,8 @@ I used `nslookup` to resolve the domain name and identify its IP address.
 ```bash
 nslookup networkwalks.com
 ```
-![NSLookup Screenshot](images/<img width="1366" height="744" alt="nslookup" src="https://github.com/user-attachments/assets/1da6b130-3696-42d3-b103-1078e6c3d653" />
-)
+[NSLookup Screenshot]images/<img width="1366" height="744" alt="nslookup" src="https://github.com/user-attachments/assets/1da6b130-3696-42d3-b103-1078e6c3d653" />
+
 
 ###  📥 CURL
 
@@ -87,8 +87,8 @@ I used `curl` to inspect the HTTP response headers returned by the website.
 ```bash
 curl -I https://networkwalks.com
 ```
-![CURL Screenshot](images/<img width="1366" height="748" alt="curl" src="https://github.com/user-attachments/assets/0804b58d-ac26-4f7c-a40c-b343ee8fe95d" />
-)
+[CURL Screenshot]images/<img width="1366" height="748" alt="curl" src="https://github.com/user-attachments/assets/0804b58d-ac26-4f7c-a40c-b343ee8fe95d" />
+
 
 ###  🛡️ WAFW00F
 
@@ -102,8 +102,8 @@ I used `wafw00f` to check whether the website was protected by a Web Application
 ```bash
 wafw00f networkwalks.com
 ```
-![WAFW00F Screenshot](images/<img width="1366" height="742" alt="wafw00f" src="https://github.com/user-attachments/assets/4d1f8d23-be50-4d00-8dad-f8267deef014" />
-)
+[WAFW00F Screenshot]images/<img width="1366" height="742" alt="wafw00f" src="https://github.com/user-attachments/assets/4d1f8d23-be50-4d00-8dad-f8267deef014" />
+
 
 ###  🔍 DNSRecon
 
@@ -117,8 +117,8 @@ I used `dnsrecon` to gather publicly available DNS information.
 ```bash
 dnsrecon -d networkwalks.com
 ```
-![DNSRecon Screenshot](images/<img width="1366" height="746" alt="dnsrecon" src="https://github.com/user-attachments/assets/d067b127-25f2-405a-ad2b-f603eaa39e51" />
-)
+[DNSRecon Screenshot]images/<img width="1366" height="746" alt="dnsrecon" src="https://github.com/user-attachments/assets/d067b127-25f2-405a-ad2b-f603eaa39e51" />
+
 
 ###  Problems Encountered
 
