@@ -158,3 +158,12 @@ Some of the things I learned include:
 - Why organizations should minimize unnecessary information exposure
 
 This project helped me understand that reconnaissance is an important part of cybersecurity because security professionals can identify publicly exposed information before conducting further authorized security testing.
+
+
+## 🛡️ Ethical & Legal Notice
+
+This project is intended for **education, cybersecurity training, and authorized security testing**.
+
+The reconnaissance techniques demonstrated in this repository should only be used against systems and domains that you own or have **explicit permission** to assess.
+
+Always follow applicable laws, organizational policies, and the defined scope of a security assessment.
