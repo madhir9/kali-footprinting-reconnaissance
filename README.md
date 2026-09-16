@@ -5,3 +5,16 @@ This is my **Week 2 project** for the Cybersecurity & Ethical Hacking Program at
 In this project, I performed basic **footprinting and reconnaissance** using multiple tools available in Kali Linux. The purpose of the lab was to understand what information can be discovered from publicly available sources about a website.
 
 
+## 🎯 Objectives
+
+The main objectives of this project were to:
+
+- Understand the concept of footprinting and reconnaissance
+- Use multiple Kali Linux reconnaissance tools
+- Find public domain registration information
+- Identify web technologies used by a website
+- Resolve a domain name to an IP address
+- Inspect HTTP response headers
+- Detect a Web Application Firewall (WAF)
+- Enumerate publicly available DNS records
+- Document the results of each reconnaissance task
