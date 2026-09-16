@@ -41,8 +41,8 @@ I used `whois` to retrieve publicly available domain registration information.
 ```bash
 whois networkwalks.com
 ```
-![WHOIS Screenshot](images/<img width="1366" height="746" alt="whois" src="https://github.com/user-attachments/assets/0f513bab-308b-4a4a-b84f-2d2fb6b8de7b" />
-)
+[WHOIS Screenshot]images/<img width="1366" height="746" alt="whois" src="https://github.com/user-attachments/assets/0f513bab-308b-4a4a-b84f-2d2fb6b8de7b" />
+
 
 
 ### 🌐 WhatWeb
