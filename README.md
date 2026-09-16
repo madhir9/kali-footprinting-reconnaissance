@@ -138,3 +138,23 @@ Some commands returned a large amount of information. I learned to read the outp
 ### 3. Recording Evidence
 
 For each task, I saved screenshots and recorded command output so that the reconnaissance process could be documented and reviewed later.
+
+
+## 💡 What I Learned
+
+Through this project, I learned how reconnaissance and footprinting are used during cybersecurity assessments.
+
+Some of the things I learned include:
+
+- How to use `whois`
+- How to fingerprint websites using WhatWeb
+- How DNS resolution works
+- How to use `nslookup`
+- How to inspect HTTP headers using `curl`
+- How to detect WAF technologies using `wafw00f`
+- How to enumerate DNS records using `dnsrecon`
+- How to document cybersecurity practical work
+- Why publicly exposed information can be useful during security assessments
+- Why organizations should minimize unnecessary information exposure
+
+This project helped me understand that reconnaissance is an important part of cybersecurity because security professionals can identify publicly exposed information before conducting further authorized security testing.
