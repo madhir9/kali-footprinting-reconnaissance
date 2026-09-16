@@ -42,3 +42,16 @@ I used `whois` to retrieve publicly available domain registration information.
 whois networkwalks.com
 ```
 ![WHOIS Screenshot](images/whois.png)
+
+
+### 6️⃣ WhatWeb
+
+```markdown
+### 2. WhatWeb — Web Technology Fingerprinting
+
+I used WhatWeb to identify technologies exposed by the website.
+
+### Command
+
+```bash
+whatweb networkwalks.com
