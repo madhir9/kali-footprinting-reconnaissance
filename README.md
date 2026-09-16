@@ -55,3 +55,18 @@ I used WhatWeb to identify technologies exposed by the website.
 
 ```bash
 whatweb networkwalks.com
+```
+
+### 7️⃣ NSLookup
+
+
+### 3. NSLookup — DNS Resolution
+
+I used `nslookup` to resolve the domain name and identify its IP address.
+
+### Command
+
+```bash
+nslookup networkwalks.com
+```
+
