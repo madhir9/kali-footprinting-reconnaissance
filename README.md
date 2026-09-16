@@ -70,3 +70,17 @@ I used `nslookup` to resolve the domain name and identify its IP address.
 nslookup networkwalks.com
 ```
 
+
+### 8️⃣ CURL
+
+```markdown
+### 4. CURL — HTTP Response Headers
+
+I used `curl` to inspect the HTTP response headers returned by the website.
+
+### Command
+
+```bash
+curl -I https://networkwalks.com
+
+
