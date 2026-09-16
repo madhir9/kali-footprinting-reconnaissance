@@ -18,3 +18,10 @@ The main objectives of this project were to:
 - Detect a Web Application Firewall (WAF)
 - Enumerate publicly available DNS records
 - Document the results of each reconnaissance task
+
+## 🎯 Lab Target
+
+The target used for this practical was:
+
+```text
+networkwalks.com
