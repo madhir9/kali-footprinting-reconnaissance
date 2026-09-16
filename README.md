@@ -1,5 +1,7 @@
-🔐 Footprinting & Reconnaissance with Multiple Kali Linux Tools
+# 🔐 Footprinting & Reconnaissance with Multiple Kali Linux Tools
 
-This is my Week 2 project for the Cybersecurity & Ethical Hacking Program at Networkwalks.
+This is my **Week 2 project** for the Cybersecurity & Ethical Hacking Program at **Networkwalks**.
 
-In this project, I performed basic footprinting and reconnaissance using multiple tools available in Kali Linux. The purpose of the lab was to understand what information can be discovered from publicly available sources about a website.
+In this project, I performed basic **footprinting and reconnaissance** using multiple tools available in Kali Linux. The purpose of the lab was to understand what information can be discovered from publicly available sources about a website.
+
+> ⚠️ **Educational Use Only:** These techniques should only be used on systems and domains that you own or have explicit permission to assess.
