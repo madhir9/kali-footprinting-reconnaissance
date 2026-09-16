@@ -25,3 +25,20 @@ The target used for this practical was:
 
 ```text
 networkwalks.com
+```
+
+### 5️⃣ WHOIS
+
+
+## ⚙️ Reconnaissance Process
+
+### 1. WHOIS — Domain Registration Information
+
+I used `whois` to retrieve publicly available domain registration information.
+
+### Command
+
+```bash
+whois networkwalks.com
+```
+![WHOIS Screenshot](images/whois.png)
