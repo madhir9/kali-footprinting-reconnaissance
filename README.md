@@ -73,7 +73,7 @@ nslookup networkwalks.com
 
 ### 8️⃣ CURL
 
-```markdown
+
 ### 4. CURL — HTTP Response Headers
 
 I used `curl` to inspect the HTTP response headers returned by the website.
@@ -82,5 +82,18 @@ I used `curl` to inspect the HTTP response headers returned by the website.
 
 ```bash
 curl -I https://networkwalks.com
+```
 
 
+### 9️⃣ WAFW00F
+
+
+### 5. WAFW00F — Web Application Firewall Detection
+
+I used `wafw00f` to check whether the website was protected by a Web Application Firewall.
+
+### Command
+
+```bash
+wafw00f networkwalks.com
+```
