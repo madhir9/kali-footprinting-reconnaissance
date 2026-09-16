@@ -27,7 +27,7 @@ The target used for this practical was:
 networkwalks.com
 ```
 
-###  WHOIS
+### 🔎 WHOIS
 
 
 ## ⚙️ Reconnaissance Process
@@ -44,7 +44,7 @@ whois networkwalks.com
 ![WHOIS Screenshot](images/whois.png)
 
 
-###  WhatWeb
+### 🌐 WhatWeb
 
 
 ### 2. WhatWeb — Web Technology Fingerprinting
@@ -58,7 +58,7 @@ whatweb networkwalks.com
 ```
 ![WhatWeb Screenshot](images/whatweb.png)
 
-###  NSLookup
+###  📡 NSLookup
 
 
 ### 3. NSLookup — DNS Resolution
@@ -72,7 +72,7 @@ nslookup networkwalks.com
 ```
 ![NSLookup Screenshot](images/nslookup.png)
 
-###  CURL
+###  📥 CURL
 
 
 ### 4. CURL — HTTP Response Headers
@@ -86,7 +86,7 @@ curl -I https://networkwalks.com
 ```
 ![CURL Screenshot](images/curl.png)
 
-###  WAFW00F
+###  🛡️ WAFW00F
 
 
 ### 5. WAFW00F — Web Application Firewall Detection
@@ -100,7 +100,7 @@ wafw00f networkwalks.com
 ```
 ![WAFW00F Screenshot](images/wafw00f.png)
 
-###  DNSRecon
+###  🔍 DNSRecon
 
 
 ### 6. DNSRecon — DNS Enumeration
