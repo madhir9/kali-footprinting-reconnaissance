@@ -56,6 +56,7 @@ I used WhatWeb to identify technologies exposed by the website.
 ```bash
 whatweb networkwalks.com
 ```
+![WhatWeb Screenshot](images/whatweb.png)
 
 ### 7️⃣ NSLookup
 
@@ -69,7 +70,7 @@ I used `nslookup` to resolve the domain name and identify its IP address.
 ```bash
 nslookup networkwalks.com
 ```
-
+![NSLookup Screenshot](images/nslookup.png)
 
 ### 8️⃣ CURL
 
@@ -83,7 +84,7 @@ I used `curl` to inspect the HTTP response headers returned by the website.
 ```bash
 curl -I https://networkwalks.com
 ```
-
+![CURL Screenshot](images/curl.png)
 
 ### 9️⃣ WAFW00F
 
@@ -97,7 +98,7 @@ I used `wafw00f` to check whether the website was protected by a Web Application
 ```bash
 wafw00f networkwalks.com
 ```
-
+![WAFW00F Screenshot](images/wafw00f.png)
 
 ### 🔟 DNSRecon
 
@@ -111,7 +112,7 @@ I used `dnsrecon` to gather publicly available DNS information.
 ```bash
 dnsrecon -d networkwalks.com
 ```
-
+![DNSRecon Screenshot](images/dnsrecon.png)
 
 ### 1️⃣1️⃣ Problems Encountered
 
