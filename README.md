@@ -97,3 +97,17 @@ I used `wafw00f` to check whether the website was protected by a Web Application
 ```bash
 wafw00f networkwalks.com
 ```
+
+
+### 🔟 DNSRecon
+
+
+### 6. DNSRecon — DNS Enumeration
+
+I used `dnsrecon` to gather publicly available DNS information.
+
+### Command
+
+```bash
+dnsrecon -d networkwalks.com
+```
