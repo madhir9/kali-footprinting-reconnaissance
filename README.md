@@ -111,3 +111,30 @@ I used `dnsrecon` to gather publicly available DNS information.
 ```bash
 dnsrecon -d networkwalks.com
 ```
+
+
+### 1️⃣1️⃣ Problems Encountered
+
+
+## 🐞 Problems I Encountered & How I Solved Them
+
+### 1. Understanding Different Reconnaissance Tools
+
+At first, the different reconnaissance tools performed similar-looking tasks, but I learned that each tool provides different information.
+
+For example:
+
+- `whois` focuses on domain registration information.
+- `whatweb` focuses on web technologies.
+- `nslookup` resolves DNS information.
+- `curl` displays HTTP response headers.
+- `wafw00f` checks for Web Application Firewalls.
+- `dnsrecon` provides more detailed DNS enumeration.
+
+### 2. Understanding the Information Returned
+
+Some commands returned a large amount of information. I learned to read the output carefully and identify information that was relevant to the task.
+
+### 3. Recording Evidence
+
+For each task, I saved screenshots and recorded command output so that the reconnaissance process could be documented and reviewed later.
