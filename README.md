@@ -46,7 +46,7 @@ whois networkwalks.com
 
 ### 6️⃣ WhatWeb
 
-```markdown
+
 ### 2. WhatWeb — Web Technology Fingerprinting
 
 I used WhatWeb to identify technologies exposed by the website.
